@@ -1,0 +1,1 @@
+<h1 style="color: green;">Product added successfully</h1>
